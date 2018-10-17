@@ -44,5 +44,5 @@ Quaisquer dúvidas que você venha a ter, consulte as [_issues_](https://github.
 Boa sorte! ;)
 
 <p align="center">
-  <img src="ca.jpg" alt="Challange accepted" />
+  <img src="https://github.com/cybers-athletic/challenge-alpha/blob/master/ca.jpg?raw=true" alt="Challange accepted" />
 </p>
