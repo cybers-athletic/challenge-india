@@ -48,4 +48,4 @@ Boa sorte! ;)
 </p>
 
 ## Créditos
-Esse repositório foi baseado no [desafio-fornt-basic](https://github.com/globoesporte/desafio-fornt-basic) criado por [Globo Esporte](https://github.com/zanaca).
+Esse repositório foi baseado no [desafio-fornt-basic](https://github.com/globoesporte/desafio-fornt-basic) criado por [Globo Esporte](https://github.com/globoesporte).
