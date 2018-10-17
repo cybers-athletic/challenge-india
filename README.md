@@ -46,3 +46,6 @@ Boa sorte! ;)
 <p align="center">
   <img src="https://github.com/cybers-athletic/challenge-alpha/blob/master/ca.jpg?raw=true" alt="Challange accepted" />
 </p>
+
+## Créditos
+Esse repositório foi baseado no [desafio-fornt-basic](https://github.com/globoesporte/desafio-fornt-basic) criado por [Globo Esporte](https://github.com/zanaca).
